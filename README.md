@@ -16,8 +16,8 @@
     > 資料表名稱　：WayfindingSoldier  
     > 資料表使用者：WayfindingSoldierUser  
     > 資料表密碼　：WayfindingSoldierPwd  
-    <img width="400" alt="DB_schema" src="https://github.com/ben03181574/Java_Wayfinding-of-the-Soldier/assets/61927641/a0fa57e5-4a17-410d-8232-22c8464a5ee9">
-    <img width="400" alt="DB_dictionary" src="https://github.com/ben03181574/Java_Wayfinding-of-the-Soldier/assets/61927641/ebcad2b3-7d20-417d-803e-129e3c1a61c0">  
+    <img width="400" alt="DB_schema" src="https://github.com/ben03181574/Wayfinding-Soldier/assets/61927641/041de64c-e662-455f-b3a1-6793422f723e">
+    <img width="400" alt="DB_dictionary" src="https://github.com/ben03181574/Wayfinding-Soldier/assets/61927641/57ed6937-ebd8-495f-bd5a-5aeaa270644d">  
 2. **執行 A1083341_checkpoint7.jar** ，執行時須於後方**加入三項參數**，分別為欲載入的地圖編號、地圖縮放程度以及士兵移動演算法編號。  
 4. 執行成功後，使用者可以按鍵以及點擊螢幕以產生不同類型的房屋  
 
